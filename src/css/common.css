@@ -1,0 +1,29 @@
+/* 本文件是一些公共的css樣式 */
+
+/* 版心樣式 */
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+/* 頂部導航模快 */
+.shortcut {
+    height: 55px;
+    line-height: 55px;
+    background-color: pink;
+}
+/* 導航模塊左邊 */
+.fl {
+    float: left;
+}
+/* 導航模塊右邊 */
+.fr {
+    float: right;
+}
+
+.shortcut ul li {
+    float: left;
+}
+.shortcut .fr ul li {
+    margin: 0 15px  0;
+}
+
